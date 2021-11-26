@@ -1,6 +1,6 @@
 Hi, i'm @jularumbe
-My everyday work is IT support, currently learning technologies such as Proxmox, Zabbix and RouterOS
-I'm also interested in developing video games, studying Javascript, Typescript and using Phaser 3 library
+My everyday work is IT support, currently learning technologies such as Proxmox, Zabbix and RouterOS.
+I'm also interested in developing video games, studying Javascript, Typescript and using Phaser 3 library.
 To reach me:
 jularumbe@gmail.com
 
