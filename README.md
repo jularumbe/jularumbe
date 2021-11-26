@@ -1,6 +1,9 @@
 Hi, i'm @jularumbe
-I'm currently learning Javascript and Typescript
-Interested in coding video games with Phaser
+My everyday work is IT support, currently learning technologies such as Proxmox, Zabbix and RouterOS
+I'm also interested in developing video games, studying Javascript, Typescript and using Phaser 3 library
+To reach me:
+jularumbe@gmail.com
+
 
 
 
